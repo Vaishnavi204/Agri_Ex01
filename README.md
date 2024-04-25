@@ -28,8 +28,15 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
+![Screenshot (1)](https://github.com/Vaishnavi204/Agri_Ex01/assets/167157596/183eae03-bb5f-48c6-b215-96e72d1f83a9)
+![Screenshot (2)](https://github.com/Vaishnavi204/Agri_Ex01/assets/167157596/ae705a2f-f3d6-4335-ab83-05afee066036)
+![Screenshot (3)](https://github.com/Vaishnavi204/Agri_Ex01/assets/167157596/61cdd37a-0dd9-4620-a38d-bd75e1eba40c)
+![Screenshot (4)](https://github.com/Vaishnavi204/Agri_Ex01/assets/167157596/c50eeafd-ea61-477b-b6fa-44243722a490)
+![Screenshot (5)](https://github.com/Vaishnavi204/Agri_Ex01/assets/167157596/9c3f62fe-edb4-4847-817d-544441faa107)
 
-![alt text](image.png)
-![alt text](image-1.png)
+
+
+
+
 ## RESULT
   The basic commands in networking are executed successfully.
